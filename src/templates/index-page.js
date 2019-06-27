@@ -56,7 +56,7 @@ export const IndexPageTemplate = ({
             backgroundColor: "rgba(4, 167, 151, 0.68)",
             color: "white",
             lineHeight: "1",
-            padding: "0.25em"
+            padding: "0.25em 1em"
           }}
         >
           {subheading}
