@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: 'The people from here - the language from there '
 image: /img/home-jumbotron.jpg
 heading: 'The people from here - the language from there '
 subheading: 'Native English courses for Brazilian students '
