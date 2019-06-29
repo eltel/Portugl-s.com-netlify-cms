@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 'The people from here - the language from there '
-image: /img/britishflag.jpg
+image: /img/favicon.png
 heading: 'The people from here - the language from there '
 subheading: 'Native English courses for Brazilian students '
 mainpitch:
