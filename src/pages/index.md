@@ -5,12 +5,12 @@ image: /img/home-jumbotron.jpg
 heading: 'The people from here - the language from there '
 subheading: 'Native English courses for Brazilian students '
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Welcome!!
+  description: >-
+    Welcome to Portuglês.com, check out our services and products, sign up, log
+    in and test your level. All of your material in one place, accessible from
+    anywhere, monitored by professional, native teachers of English as a second
+    language.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -47,10 +47,21 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Specialist, personalised, English language studies for Brazilians, both
+    in-person and online via Skype, catered to the needs of the individual
+    student.
+
+    Private, in-person classes are only available at the school in Sorocaba -
+    Skype classes are available throughout Brazil, depending on the quality of
+    the student's internet connection.
+
+    Coordinated by a native English teacher from London, with 12+ years
+    experience of catering for the specific requirements of Brazilian students
+    of English as a second language, at all levels.
+
+
+    Translations of Portuguese language texts into English and
+    text-revision/proofreading in English services are also available.
 main:
   heading: Great coffee with no compromises
   description: >
