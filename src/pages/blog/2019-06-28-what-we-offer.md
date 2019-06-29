@@ -8,6 +8,8 @@ featuredimage: /img/britishflag.jpg
 tags:
   - Classes Language services
 ---
+![British Flag (The Union Jack!)](/img/britishflag.jpg "What We Do")
+
 Specialist, personalised, English language studies for Brazilians, both in-person and online via Skype, catered to the needs of the individual student.
 
 Private, in-person classes are only available at the school in Sorocaba at the moment - Skype classes are available throughout Brazil, depending on the quality of the student's internet connection.
