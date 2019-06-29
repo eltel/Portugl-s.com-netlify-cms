@@ -8,8 +8,10 @@ description: >-
   One Two Three One Two Three One Two Three One Two Three One Two Three One Two
   Three One Two Three One Two Three One Two Three One Two Three 
 featuredpost: true
-featuredimage: /img/products-full-width.jpg
+featuredimage: /img/brazilian-flag.jpg
 tags:
   - terry
 ---
 One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three One Two Three
+
+![Brazilian Flag](/img/brazilian-flag.jpg "A Test Post")
